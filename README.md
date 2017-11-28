@@ -1,6 +1,6 @@
 # Dart School
 
-> Lessons about the Dart programming language, inspired by Twitter's [Scala School](http://twitter.github.io/scala_school/).
+> Lessons about the Dart programming language, inspired by Twitter's [Elixir School](https://elixirschool.com/en/).
 
 Lessons can now be viewed on [Dart School](dartschool.github.io).
 
